@@ -1,5 +1,5 @@
 # Type2Diabetes
-## Project Title: Gene regulatory network associated with pancreatic islets of type 2 diabetes mice.
+## Project Title: Gene regulatory network associated with apoptosis in the pancreatic islets of type 2 diabetes mice.
 ### Motivation: This repository contains R code to normalised the gene expression data. 
 
 It contains the following information:
